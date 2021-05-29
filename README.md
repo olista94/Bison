@@ -7,4 +7,4 @@ $ gcc -o cminus2 cminus2.tab.c lex.yy.c prueba.c--
 o
 
 $ make
-$ ./sminuc2 prueba-c--
+$ ./sminus2 prueba-c--
